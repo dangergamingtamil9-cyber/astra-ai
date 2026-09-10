@@ -7,7 +7,7 @@ import streamlit as st
 st.set_page_config(page_title="Astra AI", page_icon="⚡", layout="centered")
 
 # 🔑 இங்க உங்களோட OpenRouter API Key-ஐ பேஸ்ட் பண்ணுங்க:
-OPENROUTER_API_KEY = "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"
+OPENROUTER_API_KEY = "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"
 
 # -------------------- PREMIUM BLACK & WHITE CSS --------------------
 st.markdown("""
